@@ -1,3 +1,8 @@
-![alt text: image of cat](https://octodex.github.com/images/yaktocat.png)
+``` python
+print("Hello World")
+```
+``` javascript
+let name = "kenz";
+```
 
-###### This is my commit message for image
+###### This is my commit message for code
